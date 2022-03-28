@@ -18,6 +18,7 @@ public class Mobile {
 	public void setId(int id) {
 		this.id = id;
 	}
+	//this is String getName
 	public String getName() {
 		return name;
 	}
